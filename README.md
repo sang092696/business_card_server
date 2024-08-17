@@ -19,11 +19,3 @@
 - This API is deployed as a Serverless Function on Vercel
 
 
-<<<<<<< HEAD
-=======
-- [Strawberry FastAPI docs](https://strawberry.rocks/docs/integrations/fastapi)
-- [Supabase Python docs](https://supabase.com/docs/reference/python/initializing)
-- [Python Imaging Library](https://pypi.org/project/Pillow/)
-
-
->>>>>>> ae9a2ed6f8d18af5db7959acdb6db6848161ece8
