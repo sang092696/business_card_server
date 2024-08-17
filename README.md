@@ -24,4 +24,4 @@
 - [Strawberry FastAPI docs](https://strawberry.rocks/docs/integrations/fastapi)
 - [Supabase Python docs](https://supabase.com/docs/reference/python/initializing)
 - [Python Imaging Library](https://pypi.org/project/Pillow/)
-- [Frontend Repo](https://github.com/OliverSpeir/business-card-frontend)
+
